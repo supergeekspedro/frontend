@@ -1,0 +1,19 @@
+body {
+    background: rgb(232, 231, 225);
+    color: #403D2D;
+    font-size: 16pt;
+}
+
+p.jornal {
+    background: white;
+    color: black;
+    font-family: sans-serif;
+    text-align: right;
+}
+
+p#subtexto {
+    background: #d12ec1;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}

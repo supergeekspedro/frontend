@@ -1,0 +1,30 @@
+body {
+    background: #fcf8e8;
+    color: #df7861;
+    font-family: sans-serif;
+}
+
+div.header {
+    background: #d4e2d4;
+    font-size: 32pt;
+    padding: 64px 0;
+    text-align: center;
+}
+
+div.day {
+    border: 2px solid #ecb390;
+    border-radius: 8px;
+    padding: 16px 64px;
+    margin: 32px;
+}
+
+i {
+    border-bottom: 1px solid #ecb390;
+    color: #ecb390;
+    font-size: 16pt;
+}
+
+p {
+    font-size: 18pt;
+    text-align: center;
+}
